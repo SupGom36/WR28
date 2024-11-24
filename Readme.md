@@ -18,16 +18,20 @@
 
 ### Image 1
 ![image](https://github.com/user-attachments/assets/62156d84-c779-4f61-92eb-a56048cc29ca)
+
 **Description**: **This is the plot for frequency vs propagation constant for mode 1**
 
 ### Image 2
-![image](https://github.com/user-attachments/assets/6df0598d-ef5c-4f78-842d-9f0db2c15ee4)
+![image](https://github.com/user-attachments/assets/8ffc2912-8859-4491-83d0-aec5ba024b2d)
+
 **Description**: **This is the plot for frequency vs propagation constant for mode 2**
 
 ### Image 3
-![image](https://github.com/user-attachments/assets/0c28c853-2b73-474f-a1e4-cdaa5688d62c)
+![image](https://github.com/user-attachments/assets/114db057-d4b1-47a8-9b59-3b19c42fd5ca)
+
 **Description**: **This is the plot for frequency vs propagation constant for mode 3**
 
 ### Image 4
-![image](https://github.com/user-attachments/assets/3a87ef67-f4f1-474e-ad32-9015171e771d)
+![image](https://github.com/user-attachments/assets/b3e8d9d3-701c-4d25-abd6-b76f729cd72c)
+
 **Description**: **This is the plot for frequency vs propagation constant for mode 4**
